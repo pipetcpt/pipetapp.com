@@ -13,8 +13,8 @@ summary = "MGUS to Multiple myeloma prediction score"
 tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://heejoo-ko.shinyapps.io/MGUS-MM-score"
-
+#external_link = "https://seungpiljung.shinyapps.io/mgus_score1/"
+# https://heejoo-ko.shinyapps.io/MGUS-MM-score
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
