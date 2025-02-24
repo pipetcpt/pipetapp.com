@@ -44,5 +44,5 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://seung
   focal_point = "Smart"
 +++
 
-<https://heejoo-ko.shinyapps.io/MGUS-MM-score/>
+<https://seungpiljung.shinyapps.io/mgus_score1/>
 
