@@ -31,7 +31,7 @@ url_code = "https://github.com/pipetcpt/pkpdsimulation"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://heejoo-ko.shinyapps.io/MGUS-MM-score"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://seungpiljung.shinyapps.io/mgus_score1/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
