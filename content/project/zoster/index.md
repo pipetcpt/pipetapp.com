@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "Vancomycin TDM"
+title = "PHN risk prediction at HZ diagnosis"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "반코마이신 치료농도감시"
+summary = "PHN risk prediction at HZ diagnosis"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["PK", "TDM"]
+tags = ["PHN", "HZ"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://pipet.shinyapps.io/vancomycin/"
+#external_link = "https://ef10007.shinyapps.io/my-app/"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,11 +27,11 @@ tags = ["PK", "TDM"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/pipetcpt/tdm-vancomycin"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://pipet.shinyapps.io/vancomycin/"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://ef10007.shinyapps.io/my-app/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,4 +44,5 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://pipet
   focal_point = "Smart"
 +++
 
-<https://pipet.shinyapps.io/vancomycin/>
+<https://ef10007.shinyapps.io/my-app/>
+

@@ -13,8 +13,8 @@ summary = "MGUS to Multiple myeloma prediction score"
 tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "https://heejoo-ko.shinyapps.io/MGUS-MM-score"
-
+#external_link = "https://seungpiljung.shinyapps.io/mgus_score1/"
+# https://heejoo-ko.shinyapps.io/MGUS-MM-score
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -31,7 +31,7 @@ url_code = "https://github.com/pipetcpt/pkpdsimulation"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://heejoo-ko.shinyapps.io/MGUS-MM-score"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://seungpiljung.shinyapps.io/mgus_score1/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -44,5 +44,5 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://heejo
   focal_point = "Smart"
 +++
 
-<https://heejoo-ko.shinyapps.io/MGUS-MM-score/>
+<https://seungpiljung.shinyapps.io/mgus_score1/>
 
