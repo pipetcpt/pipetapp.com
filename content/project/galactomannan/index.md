@@ -10,7 +10,7 @@ summary = "False-positive prediction of galactomannan test"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Galactomannan", "Korean", "Fungal infection"]
+tags = ["Galactomannan", "Korean", "Fungal-infection"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://mychloe00.shinyapps.io/galactomannan/"
