@@ -44,5 +44,5 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://chaeh
   focal_point = "Smart"
 +++
 
-<https://mychloe00.shinyapps.io/Hematology_MM2>
+<https://chaehyun3253.shinyapps.io/my-app/>
 
