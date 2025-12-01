@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "MGUS to Multiple myeloma prediction"
+title = "Chronic Subdural Hematoma prediction"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "MGUS to Multiple myeloma prediction score"
+summary = "Chronic Subdural Hematoma prediction score"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
