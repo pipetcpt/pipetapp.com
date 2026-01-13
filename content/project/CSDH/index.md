@@ -1,16 +1,16 @@
 +++
 # Project title.
-title = "Chronic Subdural Hematoma prediction"
+title = "Subdural Hematoma prediction"
 
 # Date this page was created.
 date = 2009-08-28T00:00:00
 
 # Project summary to display on homepage.
-summary = "Chronic Subdural Hematoma prediction score"
+summary = "Subdural Hematoma prediction score"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["CSDH", "Chronic Subdural Hematoma", "Ischemic Stroke"]
+tags = ["SDH", "Subdural Hematoma", "Ischemic Stroke"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://seungpiljung.shinyapps.io/r_shiny_ischemic/"
