@@ -44,5 +44,5 @@ links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://seung
   focal_point = "Smart"
 +++
 
-<http://44.249.149.31:3838/KMM_CI_shiny2/>
+<https://seungpiljung.shinyapps.io/kmm_ci_shiny/>
 
