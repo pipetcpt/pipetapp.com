@@ -13,7 +13,7 @@ summary = "Multiple myeloma survival prediction"
 tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://44.249.149.31:3838/KMM_CI_shiny2/"
+#external_link = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/"
 # https://heejoo-ko.shinyapps.io/MGUS-MM-score
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -27,7 +27,7 @@ tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "http://44.249.149.31:3838/KMM_CI_shiny2/"
+url_code = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
