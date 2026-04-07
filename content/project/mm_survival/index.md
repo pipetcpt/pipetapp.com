@@ -10,7 +10,7 @@ summary = "Multiple myeloma survival prediction"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
+tags = ["Multiple myeloma", "Korean", "Population"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/"
