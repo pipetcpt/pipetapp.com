@@ -14,7 +14,7 @@ tags = ["Multiple myeloma", "Korean", "Population", "MGUS"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/"
-# https://heejoo-ko.shinyapps.io/MGUS-MM-score
+# https://seungpiljung.shinyapps.io/kmm_ci_shiny/
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -31,7 +31,7 @@ url_code = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "http://44.249.149.31:3838/KMM_CI_shiny2/"}]
+links = [{icon_pack = "fas", icon="tablet-alt", name="App", url = "https://seungpiljung.shinyapps.io/kmm_ci_shiny/}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
